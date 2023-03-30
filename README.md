@@ -19,7 +19,7 @@ Video Demo: [Please access this link: https://youtu.be/r9A9YZNoCBk]
 <img width="1324" alt="image" src="https://user-images.githubusercontent.com/73167411/228732458-87ff8d64-1ae9-423c-b055-d619ed943c9a.png">
 
 
-mochawesome report plugin
+mochawesome report plugin (Can generate a report html file and video)
 
 <img width="1206" alt="image" src="https://user-images.githubusercontent.com/73167411/228718821-7aeaaff2-532a-406a-8826-645149c65ef3.png">
 
