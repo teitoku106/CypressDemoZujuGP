@@ -21,18 +21,18 @@ Video Demo: [Please access this link: https://youtu.be/r9A9YZNoCBk]
 
 mochawesome report plugin (Can generate a report html file and video)
 
-<img width="1206" alt="image" src="https://user-images.githubusercontent.com/73167411/228718821-7aeaaff2-532a-406a-8826-645149c65ef3.png">
+<img width="1189" alt="image" src="https://user-images.githubusercontent.com/73167411/228736464-5d1c793b-c469-4773-a65f-a4eb80a0b66c.png">
 
 
 Spec file
 
-<img width="1020" alt="image" src="https://user-images.githubusercontent.com/73167411/228718481-a386f77c-c208-4603-840b-4165a3f484d5.png">
+<img width="993" alt="image" src="https://user-images.githubusercontent.com/73167411/228736520-c9c53ddb-53d4-42ad-9f96-7e7cc01ccff8.png">
 
 Functions
 
-<img width="694" alt="image" src="https://user-images.githubusercontent.com/73167411/228718530-6cb52889-6ca6-4795-935f-20f063a3758d.png">
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/73167411/228736567-b3b627c2-efba-4b54-9776-6aafbd289162.png">
 
 Folder Structure
 
-<img width="278" alt="image" src="https://user-images.githubusercontent.com/73167411/228718591-8c4910b4-13cd-4b28-9bc8-5ee5ecb22a39.png">
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/73167411/228736657-153e99d2-bfb8-4b8a-b610-4ee228e9e36d.png">
 
