@@ -13,6 +13,12 @@ Instruction:
 4. Open Terminal inside Visual Studio Code, Run command [ npx cypress run --reporter mochawesome ] to start Cypress in Headless mode, let it run and finish by itself, you can also find a report inside the reports folder name as: mochawesome.html (open it using any prefer browser)
 
 ----------------------------------------------------------
+
+Video Demo: [Please access this link: https://youtu.be/r9A9YZNoCBk] 
+
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/73167411/228732458-87ff8d64-1ae9-423c-b055-d619ed943c9a.png">
+
+
 mochawesome report plugin
 
 <img width="1206" alt="image" src="https://user-images.githubusercontent.com/73167411/228718821-7aeaaff2-532a-406a-8826-645149c65ef3.png">
