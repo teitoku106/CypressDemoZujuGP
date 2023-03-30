@@ -1,0 +1,8 @@
+{
+  "existing_account": [
+      {
+          "emailAddress": "zujutest+automation@gmail.com",
+          "password": "TestAuto123" 
+      }
+  ]
+}
