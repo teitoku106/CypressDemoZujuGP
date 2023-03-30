@@ -14,6 +14,12 @@ Instruction:
 
 ----------------------------------------------------------
 
+Note:
+
+- This project is based on ZujuGP/qa-cypress-eval (URL: https://github.com/ZUJUGP/qa-cypress-eval)
+
+----------------------------------------------------------
+
 Video Demo: [Please access this link: https://youtu.be/hNuFbbYEcEc] 
 
 <img width="1310" alt="image" src="https://user-images.githubusercontent.com/73167411/228737210-9bec6649-39ec-4c50-b89e-51a914fe2e9b.png">
