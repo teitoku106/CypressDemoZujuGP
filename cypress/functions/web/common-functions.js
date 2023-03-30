@@ -5,10 +5,15 @@ import teamsPage from "../../elements/web/teamsPage";
 import signInPage from "../../elements/web/signInPage";
 import userData from "../../data/userData.json";
 
+export function verifyAutocompleteTitle(compareText) {
+  cy.visit(Cypress.env("BASE_URL") + Cypress.env("SIGNIN_URL"))
+  cy.get(signInPage.signInHeader)
+    .should('contain', compareText)
+}
 
 export function login() {
   //Go to Sign in page
-  cy.visit(Cypress.env("SIGNIN_URL"))
+  cy.visit(Cypress.env("BASE_URL") + Cypress.env("SIGNIN_URL"))
   //Input user email address
   cy.get(signInPage.emailInput).type(userData["existing_account"][0]["emailAddress"])
   //Input user password
@@ -19,10 +24,9 @@ export function login() {
   cy.get(homePage.homepageHeader).contains("Upcoming for you")
 }
 
-
 export function accessTeamsPageAndFavouriteTheSpecifyTeam(teamNameInput) {
   //Go to Teams page
-  cy.visit(Cypress.env("TEAMS_URL"))
+  cy.visit(Cypress.env("BASE_URL") + Cypress.env("TEAMS_URL"))
   //Verify user are in Teams page
   cy.get(teamsPage.teamsPageHeader).contains("Favourite Teams")
   //Search for Manchester City team

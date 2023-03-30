@@ -2,8 +2,9 @@ const { defineConfig } = require('cypress')
 
 module.exports = defineConfig({
   env: {
-    SIGNIN_URL: 'https://beta-app.zujudigital.com/#sign-in',
-    TEAMS_URL: 'https://beta-app.zujudigital.com/reputation',
+    BASE_URL: "https://beta-app.zujudigital.com",
+    SIGNIN_URL: '/#sign-in',
+    TEAMS_URL: '/reputation',
   },
   reporterOptions: {
     charts: true,
@@ -20,6 +21,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       return require('./cypress/plugins/index.js')(on, config)
     },
-    specPattern: 'cypress/e2e/**/*.spec.js',
+    specPattern: 'cypress/e2e/**/*.spec.js'
   },
 })
