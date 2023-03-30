@@ -6,7 +6,9 @@ import signInPage from "../../elements/web/signInPage";
 import userData from "../../data/userData.json";
 
 export function verifyAutocompleteTitle(compareText) {
+  //Go to Sign in page
   cy.visit(Cypress.env("BASE_URL") + Cypress.env("SIGNIN_URL"))
+  //Verify Sign in page has the required text 
   cy.get(signInPage.signInHeader)
     .should('contain', compareText)
 }
