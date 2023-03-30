@@ -14,9 +14,9 @@ Instruction:
 
 ----------------------------------------------------------
 
-Video Demo: [Please access this link: https://youtu.be/r9A9YZNoCBk] 
+Video Demo: [Please access this link: https://youtu.be/hNuFbbYEcEc] 
 
-<img width="1324" alt="image" src="https://user-images.githubusercontent.com/73167411/228732458-87ff8d64-1ae9-423c-b055-d619ed943c9a.png">
+<img width="1310" alt="image" src="https://user-images.githubusercontent.com/73167411/228737210-9bec6649-39ec-4c50-b89e-51a914fe2e9b.png">
 
 
 mochawesome report plugin (Can generate a report html file and video)
