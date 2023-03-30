@@ -14,10 +14,25 @@ Instruction:
 
 ----------------------------------------------------------
 
+Video Demo: [Please access this link: https://youtu.be/r9A9YZNoCBk] 
+
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/73167411/228732458-87ff8d64-1ae9-423c-b055-d619ed943c9a.png">
+
+
+mochawesome report plugin (Can generate a report html file and video)
+
+<img width="1206" alt="image" src="https://user-images.githubusercontent.com/73167411/228718821-7aeaaff2-532a-406a-8826-645149c65ef3.png">
+
+
 Spec file
 
-<img width="909" alt="image" src="https://user-images.githubusercontent.com/73167411/228599260-20eecf1d-1303-4f43-94aa-78bc35a81ccf.png">
+<img width="1020" alt="image" src="https://user-images.githubusercontent.com/73167411/228718481-a386f77c-c208-4603-840b-4165a3f484d5.png">
 
 Functions
 
-<img width="803" alt="image" src="https://user-images.githubusercontent.com/73167411/228599432-8d8c991d-5189-43c5-8ad1-91acc959021d.png">
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/73167411/228718530-6cb52889-6ca6-4795-935f-20f063a3758d.png">
+
+Folder Structure
+
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/73167411/228718591-8c4910b4-13cd-4b28-9bc8-5ee5ecb22a39.png">
+
